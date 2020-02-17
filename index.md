@@ -1,23 +1,3 @@
-## Proposal
-
-In a [piercing letter to his brother](https://www.brainpickings.org/2014/06/05/van-gogh-and-mental-illness/), Vincent van Gogh captured the mental anguish of depression in a devastatingly perfect visceral metaphor:  “One feels as if one were lying bound hand and foot at the bottom of a deep dark well, utterly helpless.” Anyone who has suffered from this debilitating disease knows that the water in that well is qualitatively, biochemically different from the water in the puddle of mere sadness. And yet, even as scientists are exploring the [evolutionary origins of depression](https://www.brainpickings.org/2014/03/24/the-depths-rottenberg-depression/) understanding and articulating the experience of depression remains a point of continual frustration for those afflicted and a point of continual perplexity for those fortunate never to have plummeted to the bottom of the well.
-
-This explains well why more than one-fourth of people with major depressive disorder are undiagnosed and fewer than half receive treatment. However, not all people request help for depressive symptoms, reason being social stigma and lack of awareness of help platforms. Not just this, sometimes individuals don't associate their feelings to depression until years later. It is typical of people to go for long periods of time feeling different, uncomfortable, scared and in pain without attaching the notion of depression to their situations. A sample of comments from an interview with [20 individuals](https://journals.sagepub.com/doi/10.1177/104973239400400102) diagnosed with clinical depression includes:
-
-*"I don't think I was aware of what was going on. I just knew a lot of times, I just felt uncomfortable relating to people"*
-
-*"Did I know what it was? It was pain, but I don't think I would have called it depression. I think I would have called it pain"*
-
-*"I had no label to put on my feelings, like depression"*
-
-### Prevelance of Depression
-
-In 2017, an estimated 264 million people in the world experienced depression. A breakdown of the number of people with depression by region is shown below. Latest estimates of mental health disorder prevalence, disease burden rates, and mortality impacts across a number of disorders can be found [here](https://ourworldindata.org/mental-health).
-
-### Hindrance to curing depression
-
-The major hindrance in the curing process is that diagnosing depression has been a difficult task since it can manifest in so many different ways. For example, some clinically depressed individuals seem to withdraw into a state of apathy while others may become extremely emotional. Eating and sleeping patterns can differ from being either in excess or being completely eliminated form one's routine. Diagnosing and tracking methods that still rely mainly on assessing self-reported depressive symptoms usually involve filling out surveys or engaging in face-to-face interviews, provide limited accuracy and reliability and are costly to track and scale. Other reasons such as stigma from the society, lack of awareness of the help and support groups etc. adds up to the challenges.
-
 ### Idea
 
 It has been found that those in misery and depression, tend to find [comfort in having companions in woe](https://doi.org/10.1016/0022-1031(89)90020-6). Not just this, but studies also suggest that those in a sad mood tend to [prefer sadness in the music](https://psycnet.apa.org/doi/10.1037/a0023749) they listen to. While the surveys and self-descriptive tracking methods fail to diagnose symptoms of depression, peculiarities as those of rumination which come exclusively with depression can be analyzed to predict the state of mind of an individual.
