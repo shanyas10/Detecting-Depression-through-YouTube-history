@@ -5,7 +5,9 @@ In a [piercing letter to his brother](https://www.brainpickings.org/2014/06/05/v
 This explains well why more than one-fourth of people with major depressive disorder are undiagnosed and fewer than half receive treatment. However, not all people request help for depressive symptoms, reason being social stigma and lack of awareness of help platforms. Not just this, sometimes individuals don't associate their feelings to depression until years later. It is typical of people to go for long periods of time feeling different, uncomfortable, scared and in pain without attaching the notion of depression to their situations. A sample of comments from an interview with [20 individuals](https://journals.sagepub.com/doi/10.1177/104973239400400102) diagnosed with clinical depression includes:
 
 *"I don't think I was aware of what was going on. I just knew a lot of times, I just felt uncomfortable relating to people"*
+
 *"Did I know what it was? It was pain, but I don't think I would have called it depression. I think I would have called it pain"*
+
 *"I had no label to put on my feelings, like depression"*
 
 ### Prevelance of Depression
