@@ -7,7 +7,6 @@ This repository maintains the code from our experiments where we used Long Short
 - To provide a real-life validation of the classification results in above step, we propose a methodology to evaluate the comments posted for a video and determine a potential score that would have been obtained on a CES-D scale and use it as a real life proxy to judge the accuracy of the classification.
 
 ## Requirements
-
 - [YouTube Data API](https://developers.google.com/youtube/v3)
 - [Empath](http://empath.stanford.edu/)
 - urllib
@@ -26,6 +25,10 @@ For evaluation of the comments, we introduce a scoring method (Section 3), calle
 We compare the performance of various models on their ability to classify a video as depressive/non-depressive by processing its transcripts.
 
 ![Results](images/model_comp.png)
+
+
+## Website
+An extension of this project involves analysing audio-visual features of the video to predict the arousal-valense response it would generate. More details can be found on the [project website](https://thechange.tech/)
 
 ## Collaborators
 [@manandey](https://github.com/manandey)
