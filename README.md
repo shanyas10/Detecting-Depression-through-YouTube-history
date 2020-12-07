@@ -8,11 +8,11 @@ This repository maintains the code from our experiments where we used Long Short
 
 ## Requirements
 
-[YouTube Data API](https://developers.google.com/youtube/v3)
-[Empath](http://empath.stanford.edu/)
-urllib
-pandas
-numpy
+- [YouTube Data API](https://developers.google.com/youtube/v3)
+- [Empath](http://empath.stanford.edu/)
+- urllib
+- pandas
+- numpy
 
 ## Data Collection
 The process of data collection has been explained in detail in Section 2.1. The code for the same can be found [here](dataset/comment_extract.py)
